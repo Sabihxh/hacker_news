@@ -1,4 +1,5 @@
 # large data file
 *.json
 
+# ignore pycache cache
 __pycache__
