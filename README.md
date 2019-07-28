@@ -5,3 +5,4 @@
     3. Removes stop words and punctuations.
     4. Creates non case-sensitive keyword dictionary.
     
+Run the hacker_new_pipeline.ipynb notebook.
