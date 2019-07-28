@@ -3,3 +3,6 @@
 
 # ignore pycache cache
 __pycache__
+
+# ignore notebook checkpoint
+.ipynb_checkpoints
